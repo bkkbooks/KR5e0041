@@ -192,6 +192,7 @@ markers:
       ', id: KR5e0041_ZTDZ_001-bkkkrnewl43}
   - {type: line-break, offset: 651, content: '', id: KR5e0041_SJB_001-250297b04}
   - {type: punctuation, offset: 653, content: (, id: KR5e0041_ZTDZ_001-bkkpn1}
+  - {type: voice, offset: 653, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 654, content: /, id: KR5e0041_ZTDZ_001-bkkpn2}
   - {type: punctuation, offset: 655, content: ), id: KR5e0041_ZTDZ_001-bkkpn3}
   - {type: 'kr:newline', offset: 669, content: '
@@ -407,6 +408,7 @@ markers:
       ', id: KR5e0041_ZTDZ_001-bkkkrnewl92}
   - {type: line-break, offset: 1474, content: '', id: KR5e0041_SJB_001-250298a14}
   - {type: punctuation, offset: 1485, content: (, id: KR5e0041_ZTDZ_001-bkkpn4}
+  - {type: voice, offset: 1485, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1486, content: /, id: KR5e0041_ZTDZ_001-bkkpn5}
   - {type: punctuation, offset: 1487, content: ), id: KR5e0041_ZTDZ_001-bkkpn6}
   - {type: 'kr:newline', offset: 1492, content: '
@@ -1721,6 +1723,7 @@ markers:
       ', id: KR5e0041_ZTDZ_001-bkkkrnewl401}
   - {type: line-break, offset: 6351, content: '', id: KR5e0041_SJB_001-250303b02}
   - {type: punctuation, offset: 6352, content: (, id: KR5e0041_ZTDZ_001-bkkpn7}
+  - {type: voice, offset: 6352, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 6354, content: /, id: KR5e0041_ZTDZ_001-bkkpn8}
   - {type: punctuation, offset: 6355, content: ), id: KR5e0041_ZTDZ_001-bkkpn9}
   - {type: 'kr:newline', offset: 6355, content: '
@@ -1943,6 +1946,7 @@ markers:
       ', id: KR5e0041_ZTDZ_001-bkkkrnewl452}
   - {type: line-break, offset: 7208, content: '', id: KR5e0041_SJB_001-250304a14}
   - {type: punctuation, offset: 7212, content: (, id: KR5e0041_ZTDZ_001-bkkpn10}
+  - {type: voice, offset: 7212, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 7216, content: /, id: KR5e0041_ZTDZ_001-bkkpn11}
   - {type: punctuation, offset: 7220, content: ), id: KR5e0041_ZTDZ_001-bkkpn12}
   - {type: 'kr:newline', offset: 7229, content: '
@@ -1971,4 +1975,4 @@ markers:
 
       ', id: KR5e0041_ZTDZ_001-bkkp25}
   back: []
-hash: sha256:eb6fa1084efef43741a9c864daea33285e4d185cec3277d7c34cfc2a64f819b6
+hash: sha256:c212ef5d9929d5626d60fbd7c4c6b517bbd8673f93dd2b29066da8c74e4a7552
